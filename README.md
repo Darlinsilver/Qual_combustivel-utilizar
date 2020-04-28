@@ -2,7 +2,7 @@
 Projeto Combustível Flutter/
 Professor: Cristiano/
 Faculdade UNA Contagem/
-Lucas Darlim Rodrigues Silva/
+Lucas Darlim Rodrigues Silva
 ## Getting Started
 
 This project is a starting point for a Flutter application.
