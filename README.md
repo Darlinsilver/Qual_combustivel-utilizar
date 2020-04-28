@@ -1,7 +1,8 @@
 # qual_combustivel_utilizar
-
-A new Flutter project.
-
+Projeto Combustível Flutter/
+Professor: Cristiano/
+Faculdade UNA Contagem/
+Lucas Darlim Rodrigues Silva/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
